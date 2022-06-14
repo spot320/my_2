@@ -1,0 +1,13 @@
+{
+    "name": "my2",
+    "description": "4pda.",
+
+    "env": {
+        "ID": {
+            "description": "VLESS ID",
+            "value": "password"
+        }
+    },
+
+    "stack": "container"
+}
